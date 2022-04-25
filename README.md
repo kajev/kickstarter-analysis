@@ -21,9 +21,7 @@ Time management will be considered for the next one.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 You should never have a launch date around the end of the year and the months of February through May are the best to start one.
 - What can you conclude about the Outcomes based on Goals?
--
-- What are some limitations of this dataset?
-    
+- What are some limitations of this dataset?   
     The currencies are not all the same. There is not many years of information, so a larger year dataset would be good.
 - What are some other possible tables and/or graphs that we could create?
 
